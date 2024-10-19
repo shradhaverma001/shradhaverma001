@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Shradha Verma</h1>
-<h3 align="center">A passionate backend developer from India.</h3>
+<h1 align="center">Hello there, I'm Shradha Verma!👋</h1>
+<h3 align="center">A passionate Software Engineer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shradhaverma001&label=Profile%20views&color=0e75b6&style=flat" alt="shradhaverma001" /> </p>
 
-- 🌱 I’m currently learning **C++ and Python.**
+- 💻 I’m currently a Software Engineer at **HSBC**
 
-- 📫 How to reach me **shradhaverma001@gmail.com**
+- 💬 How to reach me **shradhaverma001@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
